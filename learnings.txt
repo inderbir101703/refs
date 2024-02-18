@@ -1,0 +1,5 @@
+useRef is react hook that perist mutable data across rerenders
+it is use to  access DOM elements
+
+if we want pass ref in child from parents then have use forwardRef and wrap the child 
+//portals is needed to insrt the element is specific html elements for proper accessbility and html order
